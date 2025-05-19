@@ -1,7 +1,7 @@
 # Box-Office-Revenue-Prediction
 Box Office Revenue Prediction Using Linear Regression in ML
 
-💡 Project Overview
-When a movie is produced, one of the key goals for the director and producers is to maximize box office revenue. In this project, we explore how machine learning can be used to predict a movie’s box office revenue based on its genre and other relevant features such as release date, number of theaters, runtime, and MPAA rating.
-
-By training models on historical movie data, this project aims to uncover patterns and relationships that influence a film's commercial success.
+The objective of this project is to develop a machine learning model using Linear Regression to accurately predict the box office revenue of movies based on various available features. The model will be trained on a dataset containing historical movie data and will aim to identify key factors that impact revenue. By implementing data preprocessing, feature engineering, visualization and model evaluation techniques, this project seeks to:
+- Build a predictive model that can estimate the expected revenue of a movie prior to its release.
+- Provide insights into which features most influence box office success.
+- Compare linear regression performance with more advanced models (e.g., XGBoost) to assess predictive accuracy.
